@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ashutosh
 - 👀 I’m interested in web development and mobile application development 
-- 🌱 I’m currently learning react Js and react Native
+- 🌱 I’m currently learning AWS
 - 📫 How to reach me ... 8018978793
 
 <!---
