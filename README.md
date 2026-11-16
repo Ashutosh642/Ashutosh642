@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Ashutosh
-- 👀 I’m interested in web development and mobile application development 
-- 🌱 I’m currently learning AWS
+- 👀 I’m a Full stack engineer
 - 📫 How to reach me ... 8018978793
 
 <!---
